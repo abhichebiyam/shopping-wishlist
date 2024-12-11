@@ -18,4 +18,4 @@ Features:
 - Deployment: Application is hosted online for easy access and demonstration.
 - 
 ## Live Demo
-[Check out the application here!](https://product-store-8zkv.onrender.com/)
+[Check out the application here!](https://abhijits-wishlist.onrender.com/)
