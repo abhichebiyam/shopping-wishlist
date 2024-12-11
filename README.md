@@ -1,4 +1,4 @@
-# Abhijit's Shopping Wishlist: Full-Stack Application
+# Abhijit's Shopping Wishlist
 
 This project demonstrates how to build a full-stack MERN application with modern technologies and tools. The application includes a responsive UI, API development, error handling, and deployment to a live environment.
 
