@@ -22,7 +22,7 @@ const HomePage = () => {
 					bgClip={"text"}
 					textAlign={"center"}
 				>
-					Current Products 🚀
+					My Current Wishlist 🚀
 				</Text>
 
 				<SimpleGrid
@@ -41,10 +41,10 @@ const HomePage = () => {
 
 				{products.length === 0 && (
 					<Text fontSize='xl' textAlign={"center"} fontWeight='bold' color='gray.500'>
-						No products found 😢{" "}
+						Nothing to Purchase 😢{" "}
 						<Link to={"/create"}>
 							<Text as='span' color='blue.500' _hover={{ textDecoration: "underline" }}>
-								Create a product
+								Add to Wishlist
 							</Text>
 						</Link>
 					</Text>
