@@ -16,6 +16,6 @@ Features:
 - Responsive UI: Built with Chakra UI, the frontend is optimized for all screen sizes.
 - Error Handling: Comprehensive error handling for API requests and frontend functionality.
 - Deployment: Application is hosted online for easy access and demonstration.
-
-Live Demo:
+- 
+## Live Demo
 [Check out the application here!](https://product-store-8zkv.onrender.com/)
