@@ -10,9 +10,12 @@ Tech Stack:
 - **Backend**: Node.js and Express.js to handle server-side logic and API development.
 - **Database**: MongoDB, a NoSQL database for scalable and flexible data storage.
 
-Features
+Features:
 
 - Build an API: RESTful API using Express.js with MongoDB as the database.
 - Responsive UI: Built with Chakra UI, the frontend is optimized for all screen sizes.
 - Error Handling: Comprehensive error handling for API requests and frontend functionality.
 - Deployment: Application is hosted online for easy access and demonstration.
+
+Live Demo:
+[Check out the application here!](https://product-store-8zkv.onrender.com/)
