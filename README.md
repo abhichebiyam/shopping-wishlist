@@ -12,7 +12,7 @@ Tech Stack:
 
 Features
 
-	1.	Build an API: RESTful API using Express.js with MongoDB as the database.
-	2.	Responsive UI: Built with Chakra UI, the frontend is optimized for all screen sizes.
-	3.	Error Handling: Comprehensive error handling for API requests and frontend functionality.
-	4.	Deployment: Application is hosted online for easy access and demonstration.
+- Build an API: RESTful API using Express.js with MongoDB as the database.
+- Responsive UI: Built with Chakra UI, the frontend is optimized for all screen sizes.
+- Error Handling: Comprehensive error handling for API requests and frontend functionality.
+- Deployment: Application is hosted online for easy access and demonstration.
