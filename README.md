@@ -18,4 +18,5 @@ Features:
 - Deployment: Application is hosted online for easy access and demonstration.
 
 ## Live Demo
+- **Note**: The application will take a little time to boot up on the first instance.
 [Check out the application here!](https://abhijits-wishlist.onrender.com/)
